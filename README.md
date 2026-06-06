@@ -10,14 +10,13 @@ Welcome to my central repository for problem-solving! This space tracks my daily
 
 ## 📊 Progress Dashboard
 
+| Language | Questions Solved | Status |
+| :--- | :---: | :--- |
+| **Python** 🐍 | 1 | 🟢 Active |
+| **JavaScript** 🟨 | 0 | 🟡 Planned |
+| **C++** 🟦 | 0 | 🟡 Planned |
 
-| Topic / Module | Language | Total Solved | Status |
-| :--- | :--- | :--- | :--- |
-| Basics & Syntax | Python | 1 | 🟢 Completed |
-| Conditionals & Loops | Python | 0 | 🟡 In Progress |
-| Functions | Python | 0 | 🔴 Planned |
-
-*Status: 🟢 Completed | 🟡 In Progress | 🔴 Planned*
+*Status: 🟢 Completed  | 🟡 Planned*
 
 ## 📂 Repository Organization
 * `/python/` - Solutions for core language semantics, automation, and scripts.
