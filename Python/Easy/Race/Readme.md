@@ -33,7 +33,7 @@ Both of them run at the exact same speed. Given the initial positions of Naruto 
 **Input:**
 ```text
 1 2 3
-## 📤 Output Format
 
+** 📤 Output Format **
 ```text
 S
