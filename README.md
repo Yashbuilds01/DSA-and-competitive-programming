@@ -12,7 +12,7 @@ Welcome to my central repository for problem-solving! This space tracks my daily
 
 | Language | Questions Solved | Status |
 | :--- | :---: | :--- |
-| **Python** 🐍 | 7 | 🟢 Active |
+| **Python** 🐍 | 13 | 🟢 Active |
 | **JavaScript** 🟨 | 0 | 🟡 Planned |
 | **C++** 🟦 | 0 | 🟡 Planned |
 
