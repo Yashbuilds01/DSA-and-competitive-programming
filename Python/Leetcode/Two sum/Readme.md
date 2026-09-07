@@ -1,6 +1,6 @@
-# 🧩 Two Sum
+# 🧩 Two Sum (Problem-1)
 
-> **LeetCode #1 — Easy**
+> **LeetCode; #1 — Easy**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-1-orange?style=for-the-badge\&logo=leetcode)](https://leetcode.com/problems/two-sum/)
 [![Difficulty](https://img.shields.io/badge/Difficulty-Easy-green?style=for-the-badge)](https://leetcode.com/problems/two-sum/)
