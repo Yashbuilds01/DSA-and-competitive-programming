@@ -12,7 +12,7 @@ Welcome to my central repository for problem-solving! This space tracks my daily
 
 | Language | Questions Solved | Status |
 | :--- | :---: | :--- |
-| **Python** 🐍 | 13 | 🟢 Active |
+| **Python** 🐍 | 17 | 🟢 Active |
 | **JavaScript** 🟨 | 0 | 🟡 Planned |
 | **C++** 🟦 | 0 | 🟡 Planned |
 
@@ -24,4 +24,4 @@ Welcome to my central repository for problem-solving! This space tracks my daily
 * `/cpp/` - Future highly optimized data structures and competitive templates.
 
 ---
-*“Consistency is the foundation of mastery.”* Happy Coding! 💻
+*"Consistency is the foundation of mastery."* Happy Coding! 💻
