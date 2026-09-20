@@ -13,8 +13,8 @@ Welcome to my central repository for problem-solving! This space tracks my daily
 
 | Language | Questions Solved | Status |
 | :--- | :---: | :--- |
-| **Python** 🐍 | 17 | 🟢 Active |
-| **C** 🔵 | 0 | 🟢 Active |
+| **Python** 🐍 | 23 | 🟢 Active |
+| **C** 🔵 | 1 | 🟢 Active |
 | **JavaScript** 🟨 | 0 | 🟡 Planned |
 | **C++** 🟦 | 0 | 🟡 Planned |
 
