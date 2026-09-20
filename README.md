@@ -5,6 +5,7 @@ Welcome to my central repository for problem-solving! This space tracks my daily
 
 ## 🛠️ Languages Tracked
 * **Python** 🐍 (Active)
+* **C** 🔵 (Active)
 * **JavaScript** 🟨 (Planned)
 * **C++** 🟦 (Planned)
 
@@ -13,13 +14,15 @@ Welcome to my central repository for problem-solving! This space tracks my daily
 | Language | Questions Solved | Status |
 | :--- | :---: | :--- |
 | **Python** 🐍 | 17 | 🟢 Active |
+| **C** 🔵 | 0 | 🟢 Active |
 | **JavaScript** 🟨 | 0 | 🟡 Planned |
 | **C++** 🟦 | 0 | 🟡 Planned |
 
-*Status: 🟢 Completed  | 🟡 Planned*
+*Status: 🟢 Active  | 🟡 Planned*
 
 ## 📂 Repository Organization
 * `/python/` - Solutions for core language semantics, automation, and scripts.
+* `/c/` - Solutions for C language fundamentals and problem-solving.
 * `/javascript/` - Future frontend and asynchronous scripting logic.
 * `/cpp/` - Future highly optimized data structures and competitive templates.
 
